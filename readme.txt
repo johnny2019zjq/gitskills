@@ -1,2 +1,2 @@
-Creating a new branch is quick.in dev
+Git is a free software ...
 
